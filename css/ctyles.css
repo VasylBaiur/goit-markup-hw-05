@@ -678,6 +678,7 @@ background-color: var(--primary-bg-color);
 .work-content.link:hover .work-content-overlay,
 .work-content.link:focus .work-content-overlay{
   transform: translateY(0%);
+
 }
 .text-block {
   padding: 20px 24px;
